@@ -1,0 +1,89 @@
+--------------------------------------------------------------------------------
+Text: ../text/dracula-UTF8.txt
+--------------------------------------------------------------------------------
+--Number of Tokens equal to 189228
+--Number of sentences equal to 8428
+--The average sentence length is 99.87446606549597
+--The average word length is 3.571929101401484
+--The number of hapax legomena is 5164
+	Distribution increment complete.
+--The noun-to-verb ratio is 1.3793900789668863
+--List of the 10 most bigrams:
+(',', ',') with frequency 11214
+('the', 'DT') with frequency 7282
+('.', '.') with frequency 7183
+('and', 'CC') with frequency 5715
+('I', 'PRP') with frequency 4834
+('to', 'TO') with frequency 4412
+('of', 'IN') with frequency 3569
+('a', 'DT') with frequency 2852
+('in', 'IN') with frequency 2399
+('he', 'PRP') with frequency 1988
+--List of 10 bigrams with Conditional Probability:
+('\ufeffDRACULA', 'CHAPTER') with conditional probability 1.0
+('JONATHAN', 'HARKER') with conditional probability 1.0
+('_Kept', 'in') with conditional probability 1.0
+('shorthand._', ')') with conditional probability 1.0
+('Bistritz._', '--') with conditional probability 1.0
+('Left', 'Munich') with conditional probability 1.0
+('Munich', 'at') with conditional probability 1.0
+('8:35', 'P.') with conditional probability 1.0
+('1st', 'May') with conditional probability 1.0
+('Vienna', 'early') with conditional probability 1.0
+--List of 10 bigrams with associative strength in terms of LMI:
+(',', 'and') with associative strength 8483.432760750293
+('*', '*') with associative strength 4037.5858504745133
+(':', '--') with associative strength 2961.0457518980797
+('Van', 'Helsing') with associative strength 2844.4247539680687
+('.', 'I') with associative strength 2622.6163555367693
+('--', "''") with associative strength 2567.675548428885
+('of', 'the') with associative strength 2284.202509160511
+('.', 'The') with associative strength 1933.149263816612
+('.', 'He') with associative strength 1754.0133617786198
+('.', "''") with associative strength 1629.589398161792
+
+
+
+--------------------------------------------------------------------------------
+Text: ../text/hydeandjack-UTF8.txt
+--------------------------------------------------------------------------------
+--Number of Tokens equal to 30595
+--Number of sentences equal to 956
+--The average sentence length is 145.85983263598325
+--The average word length is 3.6786729857819904
+--The number of hapax legomena is 2519
+	Distribution increment complete.
+--The noun-to-verb ratio is 1.7259180415114423
+--List of the 10 most bigrams:
+(',', ',') with frequency 2046
+('the', 'DT') with frequency 1499
+('of', 'IN') with frequency 930
+('and', 'CC') with frequency 904
+('.', '.') with frequency 890
+('I', 'PRP') with frequency 640
+('to', 'TO') with frequency 634
+('a', 'DT') with frequency 605
+(';', ':') with frequency 527
+('was', 'VBD') with frequency 466
+--List of 10 bigrams with Conditional Probability:
+('Case', 'Of') with conditional probability 1.0
+('Of', 'Dr.') with conditional probability 1.0
+('STORY', 'OF') with conditional probability 1.0
+('DOOR', 'Mr.') with conditional probability 1.0
+('rugged', 'countenance') with conditional probability 1.0
+('scanty', 'and') with conditional probability 1.0
+('embarrassed', 'in') with conditional probability 1.0
+('discourse', ';') with conditional probability 1.0
+('sentiment', ';') with conditional probability 1.0
+('lean', ',') with conditional probability 1.0
+--List of 10 bigrams with associative strength in terms of LMI:
+('’', 's') with associative strength 995.9552535597894
+('.', '“') with associative strength 910.4669252497815
+(';', 'and') with associative strength 772.6600242889918
+(',', '”') with associative strength 531.4077246698388
+('”', 'said') with associative strength 513.6920988737005
+('Mr.', 'Utterson') with associative strength 502.2523427931723
+(',', 'and') with associative strength 456.90924383793185
+('?', '”') with associative strength 411.11020404062515
+('”', '“') with associative strength 392.2706433596871
+('in', 'the') with associative strength 366.8695820313626

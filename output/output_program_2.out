@@ -1,0 +1,510 @@
+--------------------------------------------------------------------------------
+Text: ../text/dracula-UTF8.txt
+--------------------------------------------------------------------------------
+--Top 10 most frequent proper nouns in the text:
+	Van Helsing with frequency 225
+	Lucy with frequency 176
+	Jonathan with frequency 133
+	Arthur with frequency 110
+	Harker with frequency 86
+	Seward with frequency 83
+	Madam Mina with frequency 81
+	Van with frequency 80
+	John with frequency 65
+	Quincey with frequency 48
+--For each proper noun, I provide the longest and shortest phrases:
+	For [1mVan Helsing[0m:
+	La frase più corta che contiene il nome Van Helsing è: said Van Helsing.
+	La frase più lunga che contiene il nome Van Helsing è: *       *       *       *       *
+
+
+
+_Later._--A sad home-coming in every way--the house empty of the dear
+
+soul who was so good to us; Jonathan still pale and dizzy under a slight
+
+relapse of his malady; and now a telegram from Van Helsing, whoever he
+
+may be:--
+
+
+
+"You will be grieved to hear that Mrs. Westenra died five days ago, and
+
+that Lucy died the day before yesterday.
+	For [1mLucy[0m:
+	La frase più corta che contiene il nome Lucy è: Lucy!"
+	La frase più lunga che contiene il nome Lucy è: If you, who saw the
+
+wounds on Lucy's throat, and saw the wounds so similar on the child's at
+
+the hospital; if you, who saw the coffin empty last night and full
+
+to-day with a woman who have not change only to be more rose and more
+
+beautiful in a whole week, after she die--if you know of this and know
+
+of the white figure last night that brought the child to the churchyard,
+
+and yet of your own senses you did not believe, how, then, can I expect
+
+Arthur, who know none of those things, to believe?
+	For [1mJonathan[0m:
+	La frase più corta che contiene il nome Jonathan è: Jonathan sleeping.
+	La frase più lunga che contiene il nome Jonathan è: See I
+
+read here what Jonathan have written:--
+
+
+
+"That other of his race who, in a later age, again and again, brought
+
+his forces over The Great River into Turkey Land; who, when he was
+
+beaten back, came again, and again, and again, though he had to come
+
+alone from the bloody field where his troops were being slaughtered,
+
+since he knew that he alone could ultimately triumph."
+	For [1mArthur[0m:
+	La frase più corta che contiene il nome Arthur è: Arthur stood up.
+	La frase più lunga che contiene il nome Arthur è: If you, who saw the
+
+wounds on Lucy's throat, and saw the wounds so similar on the child's at
+
+the hospital; if you, who saw the coffin empty last night and full
+
+to-day with a woman who have not change only to be more rose and more
+
+beautiful in a whole week, after she die--if you know of this and know
+
+of the white figure last night that brought the child to the churchyard,
+
+and yet of your own senses you did not believe, how, then, can I expect
+
+Arthur, who know none of those things, to believe?
+	For [1mHarker[0m:
+	La frase più corta che contiene il nome Harker è: Harker!"
+	La frase più lunga che contiene il nome Harker è: I thought that the Professor was going to break down and have hysterics,
+
+just as he had when Lucy died, but with a great effort he controlled
+
+himself and was at perfect nervous poise when Mrs. Harker tripped into
+
+the room, bright and happy-looking and, in the doing of work, seemingly
+
+forgetful of her misery.
+	For [1mSeward[0m:
+	La frase più corta che contiene il nome Seward è: Seward."
+	La frase più lunga che contiene il nome Seward è: He took my hands
+
+and raised me up, and made me sit on the sofa, and sat by me; he held my
+
+hand in his, and said to me with, oh, such infinite sweetness:--
+
+
+
+"My life is a barren and lonely one, and so full of work that I have not
+
+had much time for friendships; but since I have been summoned to here by
+
+my friend John Seward I have known so many good people and seen such
+
+nobility that I feel more than ever--and it has grown with my advancing
+
+years--the loneliness of my life.
+	For [1mMadam Mina[0m:
+	La frase più corta che contiene il nome Madam Mina è: Madam Mina, look!
+	La frase più lunga che contiene il nome Madam Mina è: More than all do I rejoice that this, our
+
+first--and perhaps our most difficult and dangerous--step has been
+
+accomplished without the bringing thereinto our most sweet Madam Mina or
+
+troubling her waking or sleeping thoughts with sights and sounds and
+
+smells of horror which she might never forget.
+	For [1mVan[0m:
+	La frase più corta che contiene il nome Van è: said Van Helsing.
+	La frase più lunga che contiene il nome Van è: *       *       *       *       *
+
+
+
+_Later._--A sad home-coming in every way--the house empty of the dear
+
+soul who was so good to us; Jonathan still pale and dizzy under a slight
+
+relapse of his malady; and now a telegram from Van Helsing, whoever he
+
+may be:--
+
+
+
+"You will be grieved to hear that Mrs. Westenra died five days ago, and
+
+that Lucy died the day before yesterday.
+	For [1mJohn[0m:
+	La frase più corta che contiene il nome John è: See you now, friend John?
+	La frase più lunga che contiene il nome John è: To begin twice more after I had
+
+been through a deed of horror; for if it was terrible with the sweet
+
+Miss Lucy, what would it not be with these strange ones who had survived
+
+through centuries, and who had been strengthened by the passing of the
+
+years; who would, if they could, have fought for their foul lives....
+
+
+
+Oh, my friend John, but it was butcher work; had I not been nerved by
+
+thoughts of other dead, and of the living over whom hung such a pall of
+
+fear, I could not have gone on.
+	For [1mQuincey[0m:
+	La frase più corta che contiene il nome Quincey è: asked Quincey.
+	La frase più lunga che contiene il nome Quincey è: I was so much astonished, that the oddness of
+
+introducing a madman in an asylum did not strike me at the moment; and,
+
+besides, there was a certain dignity in the man's manner, so much of
+
+the habit of equality, that I at once made the introduction: "Lord
+
+Godalming; Professor Van Helsing; Mr. Quincey Morris, of Texas; Mr.
+--For each sentence containing the most frequent nouns, I provide the 10 most frequent GPE:
+	London with frequency 14
+	Mina with frequency 12
+	Whitby with frequency 5
+	Renfield with frequency 4
+	Poor with frequency 4
+	Dracula with frequency 3
+	Transylvania with frequency 3
+	Carfax with frequency 3
+	Danube with frequency 3
+	Galatz with frequency 3
+--For each sentence containing the most frequent nouns, I provide the 10 most frequent proper names:
+	Van Helsing with frequency 225
+	Lucy with frequency 176
+	Jonathan with frequency 133
+	Arthur with frequency 110
+	Harker with frequency 86
+	Seward with frequency 83
+	Van with frequency 80
+	Madam Mina with frequency 77
+	John with frequency 65
+	Quincey with frequency 48
+--For each sentence containing the most frequent nouns, I provide the 10 most frequent nouns:
+	Van with tag NNP with frequency 314
+	Helsing with tag NNP with frequency 307
+	Lucy with tag NNP with frequency 279
+	Jonathan with tag NNP with frequency 181
+	Arthur with tag NNP with frequency 146
+	Harker with tag NNP with frequency 141
+	Dr. with tag NNP with frequency 137
+	Seward with tag NNP with frequency 109
+	Mina with tag NNP with frequency 106
+	Madam with tag NNP with frequency 85
+--For each sentence containing the most frequent nouns, I provide the 10 most frequent verbs:
+	was with tag VBD with frequency 326
+	is with tag VBZ with frequency 241
+	had with tag VBD with frequency 212
+	said with tag VBD with frequency 176
+	have with tag VBP with frequency 102
+	been with tag VBN with frequency 77
+	are with tag VBP with frequency 74
+	were with tag VBD with frequency 70
+	has with tag VBZ with frequency 68
+	came with tag VBD with frequency 65
+--For each sentence containing the most frequent nouns, I provide the dates, months, and days:
+	may with frequency 54
+	september with frequency 45
+	october with frequency 19
+	august with frequency 11
+	november with frequency 7
+	july with frequency 2
+	june with frequency 1
+	sunday with frequency 1
+--The phrase containing the most frequent nouns, at least 8 tokens long and at most 12 tokens long, with the highest probability is:
+	Jonathan, you must not leave me. with probability 5.391304303126574e-19
+
+
+
+--------------------------------------------------------------------------------
+Text: ../text/hydeandjack-UTF8.txt
+--------------------------------------------------------------------------------
+--Top 10 most frequent proper nouns in the text:
+	Mr. Utterson with frequency 66
+	Utterson with frequency 58
+	Poole with frequency 46
+	Jekyll with frequency 36
+	Mr. Hyde with frequency 26
+	Edward Hyde with frequency 25
+	Hyde with frequency 25
+	Henry Jekyll with frequency 24
+	Lanyon with frequency 14
+	Mr. with frequency 10
+--For each proper noun, I provide the longest and shortest phrases:
+	For [1mMr. Utterson[0m:
+	La frase più corta che contiene il nome Mr. Utterson è: “Now I shall know you
+
+again,” said Mr. Utterson.
+	La frase più lunga che contiene il nome Mr. Utterson è: The will was holograph, for
+
+Mr. Utterson though he took charge of it now that it was made, had
+
+refused to lend the least assistance in the making of it; it provided
+
+not only that, in case of the decease of Henry Jekyll, M.D., D.C.L.,
+
+L.L.D., F.R.S., etc., all his possessions were to pass into the hands
+
+of his “friend and benefactor Edward Hyde,” but that in case of Dr.
+
+Jekyll’s “disappearance or unexplained absence for any period exceeding
+
+three calendar months,” the said Edward Hyde should step into the said
+
+Henry Jekyll’s shoes without further delay and free from any burthen or
+
+obligation beyond the payment of a few small sums to the members of the
+
+doctor’s household.
+	For [1mUtterson[0m:
+	La frase più corta che contiene il nome Utterson è: Utterson sighed.
+	La frase più lunga che contiene il nome Utterson è: The will was holograph, for
+
+Mr. Utterson though he took charge of it now that it was made, had
+
+refused to lend the least assistance in the making of it; it provided
+
+not only that, in case of the decease of Henry Jekyll, M.D., D.C.L.,
+
+L.L.D., F.R.S., etc., all his possessions were to pass into the hands
+
+of his “friend and benefactor Edward Hyde,” but that in case of Dr.
+
+Jekyll’s “disappearance or unexplained absence for any period exceeding
+
+three calendar months,” the said Edward Hyde should step into the said
+
+Henry Jekyll’s shoes without further delay and free from any burthen or
+
+obligation beyond the payment of a few small sums to the members of the
+
+doctor’s household.
+	For [1mPoole[0m:
+	La frase più corta che contiene il nome Poole è: Poole nodded.
+	La frase più lunga che contiene il nome Poole è: Your master, Poole, is plainly seized
+
+with one of those maladies that both torture and deform the sufferer;
+
+hence, for aught I know, the alteration of his voice; hence the mask
+
+and the avoidance of his friends; hence his eagerness to find this
+
+drug, by means of which the poor soul retains some hope of ultimate
+
+recovery—God grant that he be not deceived!
+	For [1mJekyll[0m:
+	La frase più corta che contiene il nome Jekyll è: Jekyll.)
+	La frase più lunga che contiene il nome Jekyll è: The will was holograph, for
+
+Mr. Utterson though he took charge of it now that it was made, had
+
+refused to lend the least assistance in the making of it; it provided
+
+not only that, in case of the decease of Henry Jekyll, M.D., D.C.L.,
+
+L.L.D., F.R.S., etc., all his possessions were to pass into the hands
+
+of his “friend and benefactor Edward Hyde,” but that in case of Dr.
+
+Jekyll’s “disappearance or unexplained absence for any period exceeding
+
+three calendar months,” the said Edward Hyde should step into the said
+
+Henry Jekyll’s shoes without further delay and free from any burthen or
+
+obligation beyond the payment of a few small sums to the members of the
+
+doctor’s household.
+	For [1mMr. Hyde[0m:
+	La frase più corta che contiene il nome Mr. Hyde è: “Common friends,” echoed Mr. Hyde, a little hoarsely.
+	La frase più lunga che contiene il nome Mr. Hyde è: Mr. Hyde was pale and dwarfish, he gave an
+
+impression of deformity without any nameable malformation, he had a
+
+displeasing smile, he had borne himself to the lawyer with a sort of
+
+murderous mixture of timidity and boldness, and he spoke with a husky,
+
+whispering and somewhat broken voice; all these were points against
+
+him, but not all of these together could explain the hitherto unknown
+
+disgust, loathing and fear with which Mr. Utterson regarded him.
+	For [1mEdward Hyde[0m:
+	La frase più corta che contiene il nome Edward Hyde è: I was once more Edward Hyde.
+	La frase più lunga che contiene il nome Edward Hyde è: The will was holograph, for
+
+Mr. Utterson though he took charge of it now that it was made, had
+
+refused to lend the least assistance in the making of it; it provided
+
+not only that, in case of the decease of Henry Jekyll, M.D., D.C.L.,
+
+L.L.D., F.R.S., etc., all his possessions were to pass into the hands
+
+of his “friend and benefactor Edward Hyde,” but that in case of Dr.
+
+Jekyll’s “disappearance or unexplained absence for any period exceeding
+
+three calendar months,” the said Edward Hyde should step into the said
+
+Henry Jekyll’s shoes without further delay and free from any burthen or
+
+obligation beyond the payment of a few small sums to the members of the
+
+doctor’s household.
+	For [1mHyde[0m:
+	La frase più corta che contiene il nome Hyde è: “Hyde?” repeated Lanyon.
+	La frase più lunga che contiene il nome Hyde è: The will was holograph, for
+
+Mr. Utterson though he took charge of it now that it was made, had
+
+refused to lend the least assistance in the making of it; it provided
+
+not only that, in case of the decease of Henry Jekyll, M.D., D.C.L.,
+
+L.L.D., F.R.S., etc., all his possessions were to pass into the hands
+
+of his “friend and benefactor Edward Hyde,” but that in case of Dr.
+
+Jekyll’s “disappearance or unexplained absence for any period exceeding
+
+three calendar months,” the said Edward Hyde should step into the said
+
+Henry Jekyll’s shoes without further delay and free from any burthen or
+
+obligation beyond the payment of a few small sums to the members of the
+
+doctor’s household.
+	For [1mHenry Jekyll[0m:
+	La frase più corta che contiene il nome Henry Jekyll è: Nowhere was there any trace of Henry Jekyll, dead or alive.
+	La frase più lunga che contiene il nome Henry Jekyll è: The will was holograph, for
+
+Mr. Utterson though he took charge of it now that it was made, had
+
+refused to lend the least assistance in the making of it; it provided
+
+not only that, in case of the decease of Henry Jekyll, M.D., D.C.L.,
+
+L.L.D., F.R.S., etc., all his possessions were to pass into the hands
+
+of his “friend and benefactor Edward Hyde,” but that in case of Dr.
+
+Jekyll’s “disappearance or unexplained absence for any period exceeding
+
+three calendar months,” the said Edward Hyde should step into the said
+
+Henry Jekyll’s shoes without further delay and free from any burthen or
+
+obligation beyond the payment of a few small sums to the members of the
+
+doctor’s household.
+	For [1mLanyon[0m:
+	La frase più corta che contiene il nome Lanyon è: “Hyde?” repeated Lanyon.
+	La frase più lunga che contiene il nome Lanyon è: And in the meantime, if you can sit and talk with me
+
+of other things, for God’s sake, stay and do so; but if you cannot keep
+
+clear of this accursed topic, then in God’s name, go, for I cannot bear
+
+it.”
+
+
+
+As soon as he got home, Utterson sat down and wrote to Jekyll,
+
+complaining of his exclusion from the house, and asking the cause of
+
+this unhappy break with Lanyon; and the next day brought him a long
+
+answer, often very pathetically worded, and sometimes darkly mysterious
+
+in drift.
+	For [1mMr.[0m:
+	La frase più corta che contiene il nome Mr. è: “Mr.
+	La frase più lunga che contiene il nome Mr. è: The will was holograph, for
+
+Mr. Utterson though he took charge of it now that it was made, had
+
+refused to lend the least assistance in the making of it; it provided
+
+not only that, in case of the decease of Henry Jekyll, M.D., D.C.L.,
+
+L.L.D., F.R.S., etc., all his possessions were to pass into the hands
+
+of his “friend and benefactor Edward Hyde,” but that in case of Dr.
+
+Jekyll’s “disappearance or unexplained absence for any period exceeding
+
+three calendar months,” the said Edward Hyde should step into the said
+
+Henry Jekyll’s shoes without further delay and free from any burthen or
+
+obligation beyond the payment of a few small sums to the members of the
+
+doctor’s household.
+--For each sentence containing the most frequent nouns, I provide the 10 most frequent GPE:
+	Soho with frequency 5
+	London with frequency 2
+	God with frequency 2
+	Hence with frequency 1
+	D.C.L. with frequency 1
+	F.R.S. with frequency 1
+	Cavendish Square with frequency 1
+	Ay with frequency 1
+	Guest with frequency 1
+	Heaven with frequency 1
+--For each sentence containing the most frequent nouns, I provide the 10 most frequent proper names:
+	Mr. Utterson with frequency 66
+	Utterson with frequency 58
+	Poole with frequency 46
+	Jekyll with frequency 36
+	Mr. Hyde with frequency 26
+	Edward Hyde with frequency 25
+	Hyde with frequency 25
+	Henry Jekyll with frequency 24
+	Lanyon with frequency 14
+	Mr. with frequency 10
+--For each sentence containing the most frequent nouns, I provide the 10 most frequent nouns:
+	” with tag NNP with frequency 148
+	Utterson with tag NNP with frequency 130
+	Mr. with tag NNP with frequency 114
+	Hyde with tag NNP with frequency 96
+	“ with tag NN with frequency 96
+	Jekyll with tag NNP with frequency 90
+	“ with tag NNP with frequency 71
+	’ with tag NNP with frequency 65
+	Poole with tag NNP with frequency 60
+	” with tag NN with frequency 54
+--For each sentence containing the most frequent nouns, I provide the 10 most frequent verbs:
+	was with tag VBD with frequency 208
+	had with tag VBD with frequency 101
+	said with tag VBD with frequency 74
+	is with tag VBZ with frequency 55
+	were with tag VBD with frequency 28
+	have with tag VBP with frequency 28
+	are with tag VBP with frequency 20
+	been with tag VBN with frequency 20
+	s with tag VBD with frequency 17
+	am with tag VBP with frequency 16
+--For each sentence containing the most frequent nouns, I provide the dates, months, and days:
+	may with frequency 11
+	january with frequency 2
+	sunday with frequency 2
+--The phrase containing the most frequent nouns, at least 8 tokens long and at most 12 tokens long, with the highest probability is:
+	It was the hand of Edward Hyde. with probability 5.6464971255677595e-18
